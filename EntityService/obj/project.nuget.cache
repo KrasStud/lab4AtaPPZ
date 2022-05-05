@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIM4kcppoKS/cSJjToq21h32NTe9kmr65d+nr4wzhF93jf4/egBJ00KTtXJBgc3KGIz+QT8wqt3x47Nz756otA==",
+  "success": true,
+  "projectFilePath": "D:\\Lab 4\\EntityService\\EntityService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
