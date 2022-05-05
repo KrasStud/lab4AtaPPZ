@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lab 4\\EntityService\\EntityService.csproj": {}
+    "D:\\Lab 4\\Lab4\\Lab4.csproj": {}
   },
   "projects": {
     "D:\\Lab 4\\EntityContext\\EntityContext.csproj": {
@@ -84,6 +84,67 @@
             "projectReferences": {
               "D:\\Lab 4\\EntityContext\\EntityContext.csproj": {
                 "projectPath": "D:\\Lab 4\\EntityContext\\EntityContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Lab 4\\Lab4\\Lab4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Lab 4\\Lab4\\Lab4.csproj",
+        "projectName": "Lab4",
+        "projectPath": "D:\\Lab 4\\Lab4\\Lab4.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Lab 4\\Lab4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Lab 4\\EntityContext\\EntityContext.csproj": {
+                "projectPath": "D:\\Lab 4\\EntityContext\\EntityContext.csproj"
+              },
+              "D:\\Lab 4\\EntityService\\EntityService.csproj": {
+                "projectPath": "D:\\Lab 4\\EntityService\\EntityService.csproj"
               }
             }
           }

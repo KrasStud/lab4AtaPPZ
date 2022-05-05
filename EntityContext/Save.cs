@@ -9,7 +9,7 @@ namespace EntityContext
     {
         public List<string> categories = new List<string>();
         public List<string> reservedCategories = new List<string>();
-        public List<Account> accounts =new List<Account>();
+        public List<Account> accounts = new List<Account>();
         public Save() { categories.Add("Untagged"); accounts.Add(new Account()); reservedCategories.Add("Moved to another account"); reservedCategories.Add("Moved from another account"); }
     }
     [Serializable]

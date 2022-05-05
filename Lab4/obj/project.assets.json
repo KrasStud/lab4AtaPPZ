@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/EntityContext.dll": {}
         }
+      },
+      "EntityService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EntityContext": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EntityService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntityService.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../EntityContext/EntityContext.csproj",
       "msbuildProject": "../EntityContext/EntityContext.csproj"
+    },
+    "EntityService/1.0.0": {
+      "type": "project",
+      "path": "../EntityService/EntityService.csproj",
+      "msbuildProject": "../EntityService/EntityService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "EntityContext >= 1.0.0"
+      "EntityContext >= 1.0.0",
+      "EntityService >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab 4\\EntityService\\EntityService.csproj",
-      "projectName": "EntityService",
-      "projectPath": "D:\\Lab 4\\EntityService\\EntityService.csproj",
+      "projectUniqueName": "D:\\Lab 4\\Lab4\\Lab4.csproj",
+      "projectName": "Lab4",
+      "projectPath": "D:\\Lab 4\\Lab4\\Lab4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab 4\\EntityService\\obj\\",
+      "outputPath": "D:\\Lab 4\\Lab4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +74,9 @@
           "projectReferences": {
             "D:\\Lab 4\\EntityContext\\EntityContext.csproj": {
               "projectPath": "D:\\Lab 4\\EntityContext\\EntityContext.csproj"
+            },
+            "D:\\Lab 4\\EntityService\\EntityService.csproj": {
+              "projectPath": "D:\\Lab 4\\EntityService\\EntityService.csproj"
             }
           }
         }

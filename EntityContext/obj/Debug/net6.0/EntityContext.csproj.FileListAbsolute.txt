@@ -1,0 +1,15 @@
+D:\Lab 4\EntityContext\bin\Debug\net6.0\EntityContext.exe
+D:\Lab 4\EntityContext\bin\Debug\net6.0\EntityContext.deps.json
+D:\Lab 4\EntityContext\bin\Debug\net6.0\EntityContext.runtimeconfig.json
+D:\Lab 4\EntityContext\bin\Debug\net6.0\EntityContext.dll
+D:\Lab 4\EntityContext\bin\Debug\net6.0\EntityContext.pdb
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.csproj.AssemblyReference.cache
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.AssemblyInfoInputs.cache
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.AssemblyInfo.cs
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.csproj.CoreCompileInputs.cache
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.dll
+D:\Lab 4\EntityContext\obj\Debug\net6.0\refint\EntityContext.dll
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.pdb
+D:\Lab 4\EntityContext\obj\Debug\net6.0\EntityContext.genruntimeconfig.cache
+D:\Lab 4\EntityContext\obj\Debug\net6.0\ref\EntityContext.dll
